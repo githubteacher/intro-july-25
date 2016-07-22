@@ -18,7 +18,9 @@ Your trainers for today will be:
 
 ### Talk to Us! :comment:
 
-- We have trainers at the ready to answer your questions in Gitter. 
+[![Join the chat at https://gitter.im/githubteacher/intro-july-25](https://badges.gitter.im/githubteacher/intro-july-25.svg)](https://gitter.im/githubteacher/intro-july-25?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+- We have trainers at the ready to answer your questions in Gitter. Sign in with your GitHub account!
 
 ### Resources
 
