@@ -1,7 +1,7 @@
 
 ### Belfast, Northern Ireland
 
-#### Pokemon Gyms :run:
+#### Pokemon Gyms
  - A4 Roundabout
 
 
