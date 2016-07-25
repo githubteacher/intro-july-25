@@ -6,3 +6,4 @@
 #### Things to do :eyes:
   - Go to the beach
   - Visit Universal Studios
+  - Studio City Walk
