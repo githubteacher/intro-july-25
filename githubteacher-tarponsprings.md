@@ -8,3 +8,4 @@
 #### Things to Do :eyes:
  - Sponge Docks
  - Food Truck Rallies
+ - Sunset Cruises out of Dunedin 
