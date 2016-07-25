@@ -2,8 +2,10 @@
 ### Boulder, CO
 #### Food
 Pizzaria Locale,
-The Med
+The Med,
+
 
 #### Places to see :eyes:
 Chautauqua Trail,
-Flagstaff Peak
+Flagstaff Peak,
+Red Letter Books
