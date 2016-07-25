@@ -6,3 +6,4 @@
 #### Things to do: 
 - Dine
 - Theatre 
+- Boating
