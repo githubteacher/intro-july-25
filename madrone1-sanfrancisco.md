@@ -4,3 +4,5 @@
  - Lers Ros Thai
 
 #### Things to Do :eyes:
+ - Dancing at Monarch
+ - Delores park
