@@ -9,3 +9,4 @@
  - The Walls
  - Museum
  - Roe Valley Country Park
+ - Foyle Bridge
